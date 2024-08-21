@@ -1,0 +1,15 @@
+/* Navbar.css */
+.navbar-logo {
+    max-width: 120px; 
+    height: auto; 
+    mix-blend-mode: multiply;
+  }
+  
+  .navbar-brand {
+    padding: 0; 
+  }
+  
+  .navbar {
+    padding: 0;
+  }
+  
